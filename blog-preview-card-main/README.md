@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-visit the site:
+visit the site:https://storied-valkyrie-d888bd.netlify.app/
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
